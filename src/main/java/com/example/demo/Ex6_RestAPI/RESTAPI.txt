@@ -1,0 +1,7 @@
+RESTful API là một tiêu chuẩn dùng trong việc thiết kế các API cho các ứng dụng web để quản lý các resource.
+RESTful là một trong những kiểu thiết kế API được sử dụng phổ biến ngày nay để cho các ứng dụng (web, mobile…) khác nhau giao tiếp với nhau.
+Chức năng quan trọng nhất của REST là quy định cách sử dụng các HTTP method (như GET, POST, PUT, DELETE…) và cách định dạng các URL cho ứng dụng web để quản các resource.
+GET (SELECT): Trả về một Resource hoặc một danh sách Resource.
+POST (CREATE): Tạo mới một Resource.
+PUT (UPDATE): Cập nhật thông tin cho Resource.
+DELETE (DELETE): Xoá một Resource.
